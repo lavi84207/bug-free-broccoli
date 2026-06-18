@@ -1,0 +1,53 @@
+
+    body {
+        background-image: url("restaurant.jpg.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: centre;
+        text-align: center;  
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+h1 {
+    text-align: center;
+    color: rgb(237, 233, 12);
+
+
+}
+.tagline{
+    text-align: center;
+    color: rgb(83, 209, 234);
+    font-size: 22px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+caption {
+    font-size: 24px;
+    color: rgb(202, 113, 53);
+}
+th {
+    background-color: rgb(105, 105, 118);
+    color: rgb(211, 183, 183);
+    font-size: 20px;
+}
+table {
+    width:80%;
+    margin:auto;
+    Border-collapse: collapse;
+    border: 4px solid rgb(0, 0, 0);/*outer border*/
+}
+td {
+    border: 1px solid rgb(110, 130, 139);
+    font-size: 18px;
+    color: rgb(222, 226, 229);
+    font-weight: bold;
+      vertical-align: middle;
+    padding: 15px;
+}
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    color: rgb(146, 45, 45);
+    margin-top: 20px;
+    font-size: 16px;
+}
